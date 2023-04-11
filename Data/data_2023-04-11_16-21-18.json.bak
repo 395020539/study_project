@@ -1,0 +1,13 @@
+{
+    "Speed_Invalid_Signal": " 80.0000 \n",
+    "SPEED_VEHICLE_ASM_RAMP_IN": " 7.0000 \n",
+    "GRADIENT_ASSIST_RAMP_IN_1": " 0.500000 \n",
+    "Torque_Gradient_Rotor_Max_Returning_Assist": " 50.0000 \n",
+    "Time_Rampup_Suspension": "0.0700\n",
+    "Position_Deviation_Rack_Safety_CSAP": "0.744\n",
+    "Gradient_Handling_Rotortorque_Safety_BLOCK": "(geskon)\n0.0069885254\n(mech)\n0.007\n",
+    "Min_Vehicle_speed": "3.0\n",
+    "rotor_speed_LSS": "200.0\n",
+    "Factor_Input_Shaft_Torque_2_Rotor_Torque": "(geskon)0.0390625\n(mech)0.0390486",
+    "VehSpeed_Max_RackProt_On": " 0.500000 \n"
+}

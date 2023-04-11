@@ -1,0 +1,18 @@
+INSERT INTO test (data_name, data_path, module_name)
+             SELECT Col_1, Col_2, Col_3 FROM  t123
+             
+             
+             
+DELETE FROM data_module_info
+
+
+UPDATE sqlite_sequence SET seq = 0 WHERE name = 'data_module_info';
+
+
+
+
+INSERT INTO data_module_info (data_name, data_path, module_name)
+             SELECT Col_1, Col_2, Col_3 FROM  t123
+             
+
+INSERT INTO data_module_info (data_path) VALUES ('123')
